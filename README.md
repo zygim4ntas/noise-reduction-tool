@@ -46,7 +46,7 @@ sudo pacman -S base-devel cmake git \
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/zygim4ntas/ProNoiseDAW.git
+git clone https://github.com/zygim4ntas/noise-reduction-tool.git
 cd ProNoiseDAW
 ```
 
