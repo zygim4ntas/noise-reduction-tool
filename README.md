@@ -84,27 +84,6 @@ chmod +x build.sh
 ./ProNoiseDAW
 ```
 
-## 📁 Project Structure
-
-```
-noise-reduction-tool/
-├── README.md                      # Documentation
-├── LICENSE                        # MIT License
-├── TROUBLESHOOTING.md            # Common issues and solutions
-├── build.sh                       # Build script
-├── noise-reduction-tool.cpp       # Main application source
-├── imgui.cpp                      # ImGui core
-├── imgui_draw.cpp                 # ImGui drawing
-├── imgui_tables.cpp               # ImGui tables
-├── imgui_widgets.cpp              # ImGui widgets
-├── imgui_impl_sdl2.cpp           # SDL2 backend
-├── imgui_impl_opengl3.cpp        # OpenGL3 backend
-├── imgui.h                        # ImGui headers
-├── imgui_impl_sdl2.h
-├── imgui_impl_opengl3.h
-└── imgui_internal.h
-```
-
 ## 🎮 Usage
 
 1. **Start PipeWire** (if not already running):
