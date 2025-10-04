@@ -1,7 +1,6 @@
 # ProNoiseDAW 🎵
 
-**ProNoiseDAW** is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI. Perfect for podcasters, streamers, and audio professionals who need crystal-clear audio on Linux.
-
+**ProNoiseDAW** is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI.
 ## ✨ Features
 
 - 🎙️ **Real-time AI Noise Reduction** using RNNoise deep learning model
