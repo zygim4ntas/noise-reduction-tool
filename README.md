@@ -21,6 +21,8 @@
 - Red waveform: Raw input audio
 - Green waveform: Processed (noise-reduced) output
 
+![Screenshot](ProNoiseDAW.png)
+
 ## 🚀 Quick Start
 
 ### Prerequisites
