@@ -1,6 +1,6 @@
-# ProNoiseDAW 🎵
+# noise-reduction-tool (ProNoiseDAW) 🎵
 
-**ProNoiseDAW** is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI.
+**noise-reduction-tool (ProNoiseDAW)** is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI.
 ## ✨ Features
 
 - 🎙️ **Real-time AI Noise Reduction** using RNNoise deep learning model
