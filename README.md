@@ -85,7 +85,7 @@ chmod +x build.sh
 ## 📁 Project Structure
 
 ```
-ProNoiseDAW/
+noise-reduction-tool/
 ├── README.md                      # Documentation
 ├── LICENSE                        # MIT License
 ├── TROUBLESHOOTING.md            # Common issues and solutions
