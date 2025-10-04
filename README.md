@@ -285,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you encounter issues:
-1. Check [TROUBLESHOOTING.md](troubleshooting.md)
+1. Check [troubleshooting.md](troubleshooting.md)
 2. Search existing GitHub issues
 3. Open a new issue with:
    - Your Linux distribution and version
