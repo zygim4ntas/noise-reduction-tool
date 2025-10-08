@@ -6,7 +6,7 @@
 - **Real-time AI Noise Reduction** using RNNoise deep learning model
 - **Live Audio Visualization** with dual waveform graphs (input/output)
 - **Interactive Level Meters** showing real-time audio levels
-- **Modern Glassmorphic UI** with smooth animations and rounded corners
+- **Modern UI** with smooth animations and rounded corners
 - **Low Latency** audio processing (10ms buffer at 48kHz)
 - **Adjustable Reduction Strength** (0-100%)
 - **PipeWire/PulseAudio Support** for modern Linux audio stacks
