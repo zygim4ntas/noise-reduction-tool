@@ -14,7 +14,7 @@
 ## Interface
 
 ### Main Features
-- Clean, centered layout with glassmorphic cards
+- Clean, centered layout
 - Animated status indicator (pulsing green dot when active)
 - Real-time audio waveforms showing before/after processing
 - Live level meters for instant feedback
