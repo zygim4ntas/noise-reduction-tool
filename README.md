@@ -291,3 +291,4 @@ If you encounter issues:
    - Your Linux distribution and version
    - Console output (all error messages)
    - Steps to reproduce
+
