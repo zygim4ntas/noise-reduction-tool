@@ -150,7 +150,7 @@ systemctl --user start pipewire pipewire-pulse
 
 **Problem:** Lots of "cannot connect" errors before the app starts
 
-**Solution:** These are **normal**! PortAudio tries multiple audio backends (ALSA, JACK, OSS) before finding PipeWire. You can safely ignore these messages. The app will work if you see "Audio stream started successfully!"
+**Solution:** These are **normal**. PortAudio tries multiple audio backends (ALSA, JACK, OSS) before finding PipeWire. You can safely ignore these messages. The app will work if you see "Audio stream started successfully!"
 
 ### No Audio Devices Found
 
@@ -252,7 +252,7 @@ Microphone → PortAudio → RNNoise → Mixing (strength) → Output
             Input Graph           Output Graph
 ```
 
-### Why These Technologies?
+### Why These Tools?
 
 - **RNNoise:** State-of-the-art noise suppression using deep learning
 - **PortAudio:** Reliable, cross-platform audio with low latency
@@ -291,9 +291,3 @@ If you encounter issues:
    - Your Linux distribution and version
    - Console output (all error messages)
    - Steps to reproduce
-
-## Star History
-
-If you find this project useful, please consider giving it a star!
-
----
