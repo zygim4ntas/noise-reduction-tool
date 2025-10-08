@@ -108,10 +108,6 @@ Before submitting:
 - [ ] Real-time frequency analysis
 - [ ] GPU acceleration for processing
 
-## Questions?
-
-Feel free to open a discussion or issue if you have any questions!
-
 ## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
