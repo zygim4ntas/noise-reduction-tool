@@ -1,17 +1,17 @@
 # noise-reduction-tool (ProNoiseDAW) 🎵
 
 **noise-reduction-tool (ProNoiseDAW)** is a real-time AI-powered noise reduction tool built with RNNoise, featuring a modern glassmorphic GUI.
-## ✨ Features
+## Features
 
-- 🎙️ **Real-time AI Noise Reduction** using RNNoise deep learning model
-- 📊 **Live Audio Visualization** with dual waveform graphs (input/output)
-- 🎚️ **Interactive Level Meters** showing real-time audio levels
-- 🎨 **Modern Glassmorphic UI** with smooth animations and rounded corners
-- ⚡ **Low Latency** audio processing (10ms buffer at 48kHz)
-- 🔧 **Adjustable Reduction Strength** (0-100%)
-- 🔄 **PipeWire/PulseAudio Support** for modern Linux audio stacks
+- **Real-time AI Noise Reduction** using RNNoise deep learning model
+- **Live Audio Visualization** with dual waveform graphs (input/output)
+- **Interactive Level Meters** showing real-time audio levels
+- **Modern Glassmorphic UI** with smooth animations and rounded corners
+- **Low Latency** audio processing (10ms buffer at 48kHz)
+- **Adjustable Reduction Strength** (0-100%)
+- **PipeWire/PulseAudio Support** for modern Linux audio stacks
 
-## 🖼️ Interface
+## Interface
 
 ### Main Features
 - Clean, centered layout with glassmorphic cards
@@ -23,7 +23,7 @@
 
 ![Screenshot](ProNoiseDAW.png)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -84,7 +84,7 @@ chmod +x build.sh
 ./ProNoiseDAW
 ```
 
-## 🎮 Usage
+## Usage
 
 1. **Start PipeWire** (if not already running):
 ```bash
@@ -105,7 +105,7 @@ systemctl --user start pipewire pipewire-pulse
    - Microphone input → ProNoiseDAW → System output
    - Use with OBS, Discord, or any audio application
 
-## 🔧 Build Script
+## Build Script
 
 The included `build.sh` makes compilation easy:
 
@@ -120,7 +120,7 @@ g++ -o ProNoiseDAW noise-reduction-tool.cpp \
 
 Run with: `./build.sh && ./ProNoiseDAW`
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Segmentation Fault on Startup
 
@@ -234,7 +234,7 @@ sudo apt install libportaudio2 portaudio19-dev
 sudo apt install libsdl2-dev
 ```
 
-## 🏗️ Technical Details
+## Technical Details
 
 ### Architecture
 - **Audio Backend:** PortAudio (cross-platform audio I/O)
@@ -259,7 +259,7 @@ Microphone → PortAudio → RNNoise → Mixing (strength) → Output
 - **ImGui:** Immediate mode GUI - perfect for real-time visualizations
 - **PipeWire:** Modern Linux audio server with low latency and compatibility
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here are some ideas:
 
@@ -271,18 +271,18 @@ Contributions are welcome! Here are some ideas:
 - [ ] Multiple noise profile support
 - [ ] Keyboard shortcuts
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **RNNoise** by Xiph.Org Foundation
 - **Dear ImGui** by Omar Cornut
 - **PortAudio** by PortAudio community
 - **SDL2** by Simple DirectMedia Layer
 
-## 📞 Support
+## Support
 
 If you encounter issues:
 1. Check [troubleshooting.md](troubleshooting.md)
@@ -292,7 +292,7 @@ If you encounter issues:
    - Console output (all error messages)
    - Steps to reproduce
 
-## ⭐ Star History
+## Star History
 
 If you find this project useful, please consider giving it a star!
 
