@@ -1,7 +1,3 @@
-# Contributing to ProNoiseDAW
-
-Thank you for considering contributing to ProNoiseDAW! 🎉
-
 ## How to Contribute
 
 ### Reporting Bugs
